@@ -12,5 +12,8 @@
   },
   "devDependencies": {
     "poi": "^11.0.0-alpha.20"
+  },
+  "dependencies": {
+    "vue-router": "^3.0.1"
   }
 }
