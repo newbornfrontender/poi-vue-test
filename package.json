@@ -1,0 +1,9 @@
+{
+  "name": "poi-vue-test",
+  "version": "1.0.0",
+  "description": "Тестовый Vue проект на Poi",
+  "main": "index.js",
+  "repository": "https://github.com/newbornfrontender/poi-vue-test.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT"
+}
