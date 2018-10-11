@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/newbornfrontender/poi-vue-test.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "poi": "^11.0.0-alpha.20"
+  }
 }
