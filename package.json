@@ -6,6 +6,10 @@
   "repository": "https://github.com/newbornfrontender/poi-vue-test.git",
   "author": "Infant Frontender <newbornfrontender@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "poi dev",
+    "build": "poi build"
+  },
   "devDependencies": {
     "poi": "^11.0.0-alpha.20"
   }
